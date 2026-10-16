@@ -137,8 +137,8 @@
                             <div class="form-grid">
                                 <div class="form-group full-width">
                                     <label>Adres</label>
-                                    <textarea id="address" rows="2">Bètaplein 28 
-2321 KS Leiden</textarea>
+                                    <textarea id="address" rows="2">Slicherstraat 5
+2415 GE Den Haag</textarea>
                                 </div>
 
                                 <!-- Website zichtbare naam -->
@@ -149,7 +149,7 @@
 
                                 <div class="form-group">
                                     <label>Bedrijfstelefoon</label>
-                                    <input type="text" id="companyPhone" value="071 519 13 24">
+                                    <input type="text" id="companyPhone" value="06 2660 7144">
                                 </div>
 
                                 <!-- Logo-afbeelding in handtekening -->
